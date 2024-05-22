@@ -2,8 +2,6 @@
 
 # Lab: Application Security Techniques
 
-## Expected Deliverables
-
 ### 1. Security Scanning Report
 
 #### Scenario 1: Pseudo-Code for Authentication System
